@@ -1,17 +1,91 @@
-# Adidas
-I am doing about Adidas
+
+
+<p align="center">
+  <a href="https://github.com/yourUserName/YourProjectName">
+  </a>
+  <h3 align="center">Adidas</h3>
+
+  <p align="center">
+    This is website is about addidas <br>
+   <br>
+    </p>
+</p>
+
+<br>
+
+
+## Table of contents
+- [About the website](#about-the-webstite)
+- [Technology Used](#technology-used)
+- [To Do List](#to-do-list)
+- [Contribution](#contribution)
+- [Licence](#license)
+- [Versions](#versions)
+- [Contact Information](#contact-information)
+
+
+
+### About the website
+
+This is a  website made by the youtuber Nero Nesh. This website is about addidas.
+
+#### Technology Used
+This project uses:
+    Html
+    Java script
+#### Running the project
+Stuff you need to have so the project can run properly:
+
+    a. Must have a  code edditor that can run HTML websites. eg: Brackers
+
+
+How to run the project:
+
+    a. clone the project and compile it yourself (Most up to date)   
+    b. Open your terminal and navigate where your file is.
+    c. Then click the run button
+
+### To Do List
+
+Add the various things that you are working on.  
+
+- [x] Add a readme
+- [] Dubbing all day
+- [x] Make a video
+- [x] Building a house in minecraft
+- [x] Praying that there are no issues in this webstie
+- [] What TV
+- [x] Play some amoung us and be an impostor
 
 
 
 
-    
-<div class="row">
-<div class="col-md-6">
-<div class="Introduction">
-<p>The company was started by Adolf Dassler in his mother's house; he was joined by his elder brother Rudolf in 1924 under the name Dassler Brothers Shoe Factory. Dassler assisted in the development of spiked running shoes (spikes) for multiple athletic events. To enhance the quality of spiked athletic footwear, he transitioned from a previous model of heavy metal spikes to utilising canvas and rubber. Dassler persuaded U.S. sprinter Jesse Owens to use his hand made spikes at the 1936 Summer Olympics. In 1949, following a breakdown in the relationship between the brothers, Adolf created Adidas, and Rudolf established Puma, which became Adidas' business rival.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s0-V1_HKNR8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-    </div>    
-    </div>
-    </div>
-    
-    
+#### CONTRIBUTING
+
+
+For any concerns, please open an [issue{Adidas}](https://github.com/muondu/Adidas/issues), or JUST, [fork the project and send a pull request(https://github.com/muondu/Adidas/pulls) or Join our discord group Link above/below. 
+
+
+<hr>
+
+### License
+* see [LICENSE](https://github.com/muondu/Adidas/LICENSE.md) file
+
+### Versions
+* Version 1.0  DATE 2/11/2020
+
+
+
+### Contact Information
+
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/muond/Adidas/issues) to report them or ask them in my/ours dicord channel. Link https://discord.gg/wusUkkw
+
+<hr>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
+
+<br>
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/muondu/Adidas/master/LICENSE)
+
+[Discord Link](https://discord.gg/wusUkkw)
